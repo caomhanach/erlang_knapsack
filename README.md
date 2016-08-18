@@ -1,7 +1,7 @@
 erlang_knapsack
 =====
 
-An OTP application
+A collection of erlang implementations of solutions to the <a href=https://en.wikipedia.org/wiki/Knapsack_problem>knapsack problem</a>.
 
 Build
 -----
